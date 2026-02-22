@@ -41,10 +41,10 @@ const App = () => {
     name: 'Sindhura Appikatla',
     role: 'Software QA Test Engineer',
     summary:
-      'Software QA Engineer with 3 years of hands-on experience testing Web and Mobile applications across Finance, SaaS and E-commerce platforms in Agile environments. Strong background in manual, automation, API, and end-to-end testing, with a proven ability to validate complete user journeys, backend data integrity, and CI/CD pipelines.',
+      'Software QA Engineer with 2 years of hands-on experience testing Web and Mobile applications across Finance, SaaS and E-commerce platforms in Agile environments. Strong background in manual, automation, API, and end-to-end testing, with a proven ability to validate complete user journeys, backend data integrity, and CI/CD pipelines.',
     match: '100% Match',
     year: '2026',
-    duration: '3 Years Exp',
+    duration: '2 Years Exp',
     tags: [
       'Automation Testing',
       'Manual Testing',
@@ -76,7 +76,7 @@ const App = () => {
       id: 2,
       company: 'CollabGenics',
       title: 'Junior QA Analyst',
-      period: 'Jun 2023 - Jan 2025',
+      period: 'Dec 2023 - Jan 2025',
       location: 'UK',
       color: 'from-pink-600 to-blue-900',
       highlights: [
